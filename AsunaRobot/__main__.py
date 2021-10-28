@@ -107,11 +107,11 @@ buttons = [
             text="👥 SUPPORT", url="https://telegram.dog/AsunaRobotSupport"
         ),
     ],
-    [
-        InlineKeyboardButton(
-            text="💾 Source Code", url="https://github.com/HuntingBots/AsunaRobot"
-        ),
-    ],
+
+        
+
+
+
 ]
 
 
