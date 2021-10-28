@@ -1,4 +1,4 @@
-## 🌟[GojoSatoruXbot](https://telegram.dog/My_Asuna_Robot)🌟
+## 🌟[GojoSatoruXbot](https://telegram.dog/Gojo_Satoru_Xbot)🌟
 ### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
 
 <p align="center">
