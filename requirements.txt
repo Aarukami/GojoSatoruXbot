@@ -45,9 +45,6 @@ pygithub
 TgCrypto
 Pyrogram
 PyDictionary
-youtube-dl
-youtube_search_python
-youtube_search
 lyrics_extractor
 asyncio
 cloudscraper
